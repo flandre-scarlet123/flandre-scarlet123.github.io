@@ -1,3 +1,1 @@
-#### For ignoring index.html's changes. ####
-# An index.html for nekolover.ml/ is not hosted on GitHub Pages!
-index.html
+*.html
