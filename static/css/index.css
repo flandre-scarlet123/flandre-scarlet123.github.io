@@ -31,7 +31,8 @@ main {
 #content {
     width: 250px;
     height: 500px;
-    background: #111111f2;
+    background: #11111185;
+		text-shadow: 3px 3px 2px black;
     border-radius: 10px;
     padding: 10px;
     position: absolute;
